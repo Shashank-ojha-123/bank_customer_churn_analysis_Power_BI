@@ -22,7 +22,7 @@ and provide actionable retention insights.
 | Dataset Size | 10,000 customers, 12 variables |
 | Overall Churn Rate | 20.38% |
 
----
+--
 
 ## ❓ Business Problem
 The bank is losing 1 in 5 customers with an overall 
